@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=220&section=header&text=Hey...%20I'm%20Aditya&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
@@ -56,7 +55,33 @@ fun_fact: 300+ LeetCode problems solved and counting
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,react,nodejs,mongodb,postgres,git,github,vscode&theme=dark&perline=7" />
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js&theme=dark" />
+
+<br/><br/>
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
+
+<br/><br/>
+
+**Backend & Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+
+<br/><br/>
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
+
+<br/><br/>
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 </div>
 
