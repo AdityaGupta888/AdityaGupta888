@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=220&section=header&text=Hey...%20I'm%20Aditya&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=BTech+CSE+%40+BBDU+Lucknow;Building+CITYFIED+%F0%9F%9A%80;Full-Stack+Developer;Always+Shipping+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Building+CITYFIED+%F0%9F%9A%80;Full-Stack+Developer;Always+Shipping+Something+New" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -83,6 +83,15 @@ fun_fact: 300+ LeetCode problems solved and counting
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 <br/>
+
+🏆Highlights
+<br>
+- 🎓 3rd-year CSE student, CGPA 8.9+, balancing startup work with academics
+- 🏆 1st place — College-level AI Talk Show
+- 💡 Interested in scalable systems, AI tooling, and building products end-to-end
+- 📚 Certified: CS50 · freeCodeCamp · NPTEL DBMS
+- ⚡ Fun fact: I'd rather ship a rough MVP than polish a plan forever
+</br>
 
 ## 📊 GitHub Stats
 
