@@ -88,17 +88,7 @@ fun_fact: 300+ LeetCode problems solved and counting
 <br/>
 
 ## 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?AdityaGupta888&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=06B6D4&icon_color=6D28D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?AdityaGupta888&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaGupta888&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=6D28D9" />
-</div>
-
-<br/>
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=AdityaGupta888&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=06B6D4&icon_color=6D28D9&cache_seconds=1800" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGupta888&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&cache_seconds=1800" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaGupta888&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=6D28D9" /> </div> <br/>
 
 ## 🚀 Projects
 
