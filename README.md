@@ -19,11 +19,11 @@ AdityaGupta888/README.md
 ## 🧠 About Me
 
 ```yaml
-name: Aditya
-role: Full-Stack Developer & Startup Builder
-education: BTech CSE, 3rd Year — Babu Banarasi Das University, Lucknow
-current_Project: Building CITYFIED — a service marketplace startup
-mission: Turning ambitious ideas into shipped, working software
+Name: Aditya Gupta
+Role: Full-Stack Developer & Startup Builder
+Education: BTech CSE, 3rd Year — Babu Banarasi Das University, Lucknow
+Current_Project: Building CITYFIED — a service marketplace startup
+Mission: Turning ambitious ideas into real time shipped, working software
 fun_fact: 300+ LeetCode problems solved and counting
 ```
 <br/>
@@ -63,9 +63,7 @@ fun_fact: 300+ LeetCode problems solved and counting
 
 <br/>
 
-## 🏆 Highlights
-<img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:06B6D4&height=4"/>
-
+## 🏆 Highlights <img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:06B6D4&height=4"/>
 - 🎓 3rd-year CSE student, CGPA 8.9+, balancing startup work with academics
 - 🏆 1st place — College-level AI Talk Show
 - 💡 Interested in scalable systems, AI tooling, and building products end-to-end
