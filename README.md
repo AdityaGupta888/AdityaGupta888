@@ -30,14 +30,6 @@ Here are some ideas to get you started:
 
 </div>
 
-<br/>
-
-- 🔭 Building Full-stack web applications with React and Node.js
-- 🌱 Sharpening my problem-solving with DSA in Java, C++ and Python
-- 🤝 Open to collaborating on open-source projects
-- 📫 Reach me at iamadityagupta888@gmail.com
-
-<br/>
 
 ## 🧠 About Me
 
@@ -57,6 +49,16 @@ fun_fact: 300+ LeetCode problems solved and counting
 - ⚡ Fun fact: I'd rather ship a rough MVP than polish a plan forever
 
 <br/>
+
+<br/>
+
+- 🔭 Building Full-stack web applications with React and Node.js
+- 🌱 Sharpening my problem-solving with DSA in Java, C++ and Python
+- 🤝 Open to collaborating on open-source projects
+- 📫 Reach me at iamadityagupta888@gmail.com
+
+<br/>
+
 
 ## 🛠️ Tech Stack
 
@@ -163,12 +165,12 @@ A fully built, deployed website delivered as a client/portfolio project.
 
 <div align="center">
 
-I'm always up for a chat about code, projects or opportunities.
+I'm always up for a Solving Problems, projects or opportunities.
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-gupta-544348364)
 [![Email Me](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamadityagupta888@gmail.com)
 
-*⭐ If you like what you see, drop a star on my repos!*
+*⭐ If you like my work, drop a star on my repos!*
 
 </div>
 
