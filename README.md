@@ -19,15 +19,23 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=220&section=header&text=Hey...%20I'm%20Aditya&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Building+CITYFIED+%F0%9F%9A%80;Full-Stack+Developer;Always+Shipping+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=BTech+CSE+%40+BBDU+Lucknow;Building+CITYFIED+%F0%9F%9A%80;Full-Stack+Developer;Always+Shipping+Something+New" alt="Typing SVG" />
 </a>
 
 <br/>
 
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-8-06B6D4?style=flat-square&labelColor=0D1117)
-![Followers](https://img.shields.io/github/followers/AdityaGupta888?label=Followers&style=flat-square&color=6D28D9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-gupta-544348364)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:iamadityagupta888@gmail.com)
 
 </div>
+
+<br/>
+
+- 🔭 Building Full-stack web applications with React and Node.js
+- 🌱 Sharpening my problem-solving with DSA in Java, C++ and Python
+- 🤝 Open to collaborating on open-source projects
+- 📫 Reach me at iamadityagupta888@gmail.com
 
 <br/>
 
@@ -38,12 +46,10 @@ name: Aditya
 role: Full-Stack Developer & Startup Builder
 education: BTech CSE, 3rd Year — Babu Banarasi Das University, Lucknow
 current_focus: Building CITYFIED — a service marketplace startup
-currently_Learning: ["Data Structures & Algorithms" ,"Advanced React", "System Design"]
 mission: Turning ambitious ideas into shipped, working software
 fun_fact: 300+ LeetCode problems solved and counting
 ```
 
-- 🔭 Currently building **CITYFIED** — a service aggregation marketplace for Indian urban markets
 - 🎓 3rd-year CSE student, CGPA 8.9+, balancing startup work with academics
 - 🏆 1st place — College-level AI Talk Show
 - 💡 Interested in scalable systems, AI tooling, and building products end-to-end
@@ -54,49 +60,37 @@ fun_fact: 300+ LeetCode problems solved and counting
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-**Languages**
+**🎨 Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 
-<br/><br/>
-
-**Frontend**
+**💬 Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py&theme=dark" />
 
-<br/><br/>
-
-**Backend & Frameworks**
+**⚙️ Backend & Frameworks**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,react&theme=dark" />
 
-<br/><br/>
-
-**Databases**
+**🗄️ Databases**
 <br/>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
 
-<br/><br/>
-
-**Tools**
+**🧰 Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-
-</div>
 
 <br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=06B6D4&icon_color=6D28D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-AdityaGupta888&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AdityaGupta888&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=06B6D4&icon_color=6D28D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGupta888&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-AdityaGupta888&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=6D28D9" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaGupta888&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=6D28D9" />
 </div>
 
 <br/>
@@ -165,13 +159,16 @@ A fully built, deployed website delivered as a client/portfolio project.
 
 <br/>
 
-## 📫 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-gupta-544348364)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-iamadityagupta888@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+I'm always up for a chat about code, projects or opportunities.
+
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-gupta-544348364)
+[![Email Me](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamadityagupta888@gmail.com)
+
+*⭐ If you like what you see, drop a star on my repos!*
 
 </div>
 
