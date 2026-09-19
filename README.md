@@ -38,13 +38,14 @@ name: Aditya
 role: Full-Stack Developer & Startup Builder
 education: BTech CSE, 3rd Year — Babu Banarasi Das University, Lucknow
 current_focus: Building CITYFIED — a service marketplace startup
+currently_Learning: ["Data Structures & Algorithms" ,"Advanced React", "System Design"]
 mission: Turning ambitious ideas into shipped, working software
 fun_fact: 300+ LeetCode problems solved and counting
 ```
 
 - 🔭 Currently building **CITYFIED** — a service aggregation marketplace for Indian urban markets
 - 🎓 3rd-year CSE student, CGPA 8.9+, balancing startup work with academics
-- 🏆 1st place — College-level Hackathon (Team Lead) & College AI Talk Show
+- 🏆 1st place — College-level AI Talk Show
 - 💡 Interested in scalable systems, AI tooling, and building products end-to-end
 - 📚 Certified: CS50 · freeCodeCamp · NPTEL DBMS
 - ⚡ Fun fact: I'd rather ship a rough MVP than polish a plan forever
