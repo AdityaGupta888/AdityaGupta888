@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=06B6D4&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/your-github-username?label=Followers&style=flat-square&color=6D28D9)
+
 
 </div>
 
