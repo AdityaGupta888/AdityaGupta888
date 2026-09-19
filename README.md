@@ -12,7 +12,7 @@ AdityaGupta888/README.md
 
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-8-06B6D4?style=flat-square&labelColor=0D1117)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-gupta-544348364)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](Emailto:iamadityagupta888@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:iamadityagupta888@gmail.com)
 
 </div>
 
@@ -154,8 +154,7 @@ A fully built, deployed website delivered as a client/portfolio project.
 I'm always up for Solving Problems, Building projects and opportunities.
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-gupta-544348364)
-[![Email Me](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Emailto:iamadityagupta888@gmail.com)
-
+[![Email Me](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamadityagupta888@gmail.com)
 *⭐ If you like my work, drop a star on my repos!*
 
 </div>
