@@ -92,11 +92,11 @@ fun_fact: 300+ LeetCode problems solved and counting
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=06B6D4&icon_color=6D28D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-AdityaGupta888&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=6D28D9" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-AdityaGupta888&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=6D28D9" />
 </div>
 
 <br/>
