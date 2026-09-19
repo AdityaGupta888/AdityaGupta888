@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 
 
 ## 🧠 About Me
-<br>
 ```yaml
 name: Aditya
 role: Full-Stack Developer & Startup Builder
