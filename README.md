@@ -1,19 +1,3 @@
-AdityaGupta888/README.md
-
-<!--
-**AdityaGupta888/AdityaGupta888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=220&section=header&text=Hey...%20I'm%20Aditya&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
@@ -30,8 +14,9 @@ Here are some ideas to get you started:
 
 </div>
 
-
 ## 🧠 About Me
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:06B6D4&height=4"/>
+
 ```yaml
 name: Aditya
 role: Full-Stack Developer & Startup Builder
@@ -43,6 +28,7 @@ fun_fact: 300+ LeetCode problems solved and counting
 <br/>
 
 ## 🎯 Currently
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:06B6D4&height=4"/>
 <br/>
 
 - 🔭 Building Full-stack web applications with React and Node.js
@@ -52,8 +38,8 @@ fun_fact: 300+ LeetCode problems solved and counting
 
 <br/>
 
-
 ## 🛠️ Tech Stack
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:06B6D4&height=4"/>
 
 **🎨 Frontend**
 <br/>
@@ -77,8 +63,8 @@ fun_fact: 300+ LeetCode problems solved and counting
 
 <br/>
 
-
 ## 🏆 Highlights
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:06B6D4&height=4"/>
 
 - 🎓 3rd-year CSE student, CGPA 8.9+, balancing startup work with academics
 - 🏆 1st place — College-level AI Talk Show
@@ -88,9 +74,20 @@ fun_fact: 300+ LeetCode problems solved and counting
 <br/>
 
 ## 📊 GitHub Stats
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=AdityaGupta888&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=06B6D4&icon_color=6D28D9&cache_seconds=1800" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGupta888&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&cache_seconds=1800" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaGupta888&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=6D28D9" /> </div> <br/>
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:06B6D4&height=4"/>
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AdityaGupta888&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=06B6D4&icon_color=6D28D9&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGupta888&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&cache_seconds=1800" />
+</div>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaGupta888&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=6D28D9" />
+</div>
+
+<br/>
 
 ## 🚀 Projects
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:06B6D4&height=4"/>
 
 <div align="center">
 
@@ -155,6 +152,7 @@ A fully built, deployed website delivered as a client/portfolio project.
 <br/>
 
 ## 🤝 Let's Connect
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:06B6D4&height=4"/>
 
 <div align="center">
 
