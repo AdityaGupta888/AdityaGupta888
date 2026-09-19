@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=220&section=header&text=Hey...%20I'm%20Aditya&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
@@ -24,7 +25,8 @@ Here are some ideas to get you started:
 
 <br/>
 
-
+![Profile Views](https://img.shields.io/badge/Profile%20Views-8-06B6D4?style=flat-square&labelColor=0D1117)
+![Followers](https://img.shields.io/github/followers/your-github-username?label=Followers&style=flat-square&color=6D28D9)
 
 </div>
 
@@ -54,27 +56,7 @@ fun_fact: 300+ LeetCode problems solved and counting
 
 <div align="center">
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,react,nodejs,mongodb,postgres,git,github,vscode&theme=dark&perline=7" />
 
 </div>
 
@@ -93,18 +75,67 @@ fun_fact: 300+ LeetCode problems solved and counting
 
 <br/>
 
-## 🚀 Featured Project
+## 🚀 Projects
 
 <div align="center">
 
-### CITYFIED
+### 🌟 CITYFIED — *Flagship Project*
 **A service aggregation marketplace built for Indian urban markets**
 
-Connecting verified service providers with customers through a clean, scalable full-stack platform.
+Connecting verified service providers with customers through a clean, scalable full-stack platform — with CITYFIED COINS loyalty system, GPS-based provider discovery, and a franchise partner model (CITYFIED-PRO).
 
-`React` · `Node.js` · `MongoDB` · `PostgreSQL`
+`React Native` · `Next.js` · `Node.js` · `PostgreSQL` · `Razorpay`
 
 </div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+**🩺 MediKiosk**
+*Smart India Hackathon 2026 — Patient Case-Taking Software*
+
+AI-driven platform bridging patients and hospitals — multilingual OCR prescription extraction, ABHA-linked patient records, OTP-based data access, and physician-ready case summaries.
+
+`AI/ML` · `OCR` · `EMR Integration`
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 Maverick**
+*Personal Jarvis-style AI Assistant*
+
+A voice-driven personal AI assistant built from the ground up, alongside a full beginner-to-advanced learning roadmap covering the entire build pipeline.
+
+`Python` · `AI Tooling`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🏨 SSRP**
+*Hostel-Chain Infrastructure Platform*
+
+A web/app system for a hostel-chain infrastructure company handling bookings, payments, and record management.
+
+`React` · `Node.js` · `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+**🎨 Paradoxx Studios**
+*Studio Website*
+
+A fully built, deployed website delivered as a client/portfolio project.
+
+`HTML` · `CSS` · `JavaScript`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -112,7 +143,7 @@ Connecting verified service providers with customers through a clean, scalable f
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-gupta-544348364)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 
@@ -121,4 +152,3 @@ Connecting verified service providers with customers through a clean, scalable f
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6D28D9&height=100&section=footer" width="100%"/>
 
 </div>
-
