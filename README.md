@@ -84,7 +84,7 @@ fun_fact: 300+ LeetCode problems solved and counting
 - 💡 Interested in scalable systems, AI tooling, and building products end-to-end
 - 📚 Certified: CS50 · freeCodeCamp · NPTEL DBMS
 - ⚡ Fun fact: I'd rather ship a rough MVP than polish a plan forever
-</br>
+<br/>
 
 ## 📊 GitHub Stats
 
