@@ -79,7 +79,6 @@ fun_fact: 300+ LeetCode problems solved and counting
 
 ## 🏆 Highlights
 
-<br>
 - 🎓 3rd-year CSE student, CGPA 8.9+, balancing startup work with academics
 - 🏆 1st place — College-level AI Talk Show
 - 💡 Interested in scalable systems, AI tooling, and building products end-to-end
