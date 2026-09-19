@@ -45,18 +45,22 @@ fun_fact: 300+ LeetCode problems solved and counting
 
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+
 **💬 Languages**
 
 <br/>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,py&theme=dark" />
+
 **⚙️ Backend & Frameworks**
 
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,react&theme=dark" />
+
 **🗄️ Databases**
 
 <br/>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
+
 **🧰 Tools**
 
 <br/>
