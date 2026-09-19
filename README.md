@@ -42,6 +42,7 @@ fun_fact: 300+ LeetCode problems solved and counting
 ```
 <br/>
 
+## 🎯 Currently
 <br/>
 
 - 🔭 Building Full-stack web applications with React and Node.js
