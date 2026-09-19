@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 ## 🧠 About Me
-
+<br>
 ```yaml
 name: Aditya
 role: Full-Stack Developer & Startup Builder
@@ -41,13 +41,6 @@ current_focus: Building CITYFIED — a service marketplace startup
 mission: Turning ambitious ideas into shipped, working software
 fun_fact: 300+ LeetCode problems solved and counting
 ```
-
-- 🎓 3rd-year CSE student, CGPA 8.9+, balancing startup work with academics
-- 🏆 1st place — College-level AI Talk Show
-- 💡 Interested in scalable systems, AI tooling, and building products end-to-end
-- 📚 Certified: CS50 · freeCodeCamp · NPTEL DBMS
-- ⚡ Fun fact: I'd rather ship a rough MVP than polish a plan forever
-
 <br/>
 
 <br/>
@@ -84,7 +77,8 @@ fun_fact: 300+ LeetCode problems solved and counting
 
 <br/>
 
-🏆Highlights
+
+**🏆Highlights**
 <br>
 - 🎓 3rd-year CSE student, CGPA 8.9+, balancing startup work with academics
 - 🏆 1st place — College-level AI Talk Show
