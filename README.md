@@ -15,7 +15,7 @@
 </div>
 
 ## 🧠 About Me
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:06B6D4&height=4"/>
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:06B6D4&height=4"/>
 
 ```yaml
 name: Aditya
