@@ -1,3 +1,5 @@
+AdityaGupta888/README.md
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=220&section=header&text=Hey...%20I'm%20Aditya&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
@@ -15,7 +17,6 @@
 </div>
 
 ## 🧠 About Me
-<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:06B6D4&height=4"/>
 
 ```yaml
 name: Aditya
@@ -39,7 +40,7 @@ fun_fact: 300+ LeetCode problems solved and counting
 <br/>
 
 ## 🛠️ Tech Stack
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:06B6D4&height=4"/>
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:06B6D4&height=4"/>
 
 **🎨 Frontend**
 <br/>
@@ -64,7 +65,7 @@ fun_fact: 300+ LeetCode problems solved and counting
 <br/>
 
 ## 🏆 Highlights
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:06B6D4&height=4"/>
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:06B6D4&height=4"/>
 
 - 🎓 3rd-year CSE student, CGPA 8.9+, balancing startup work with academics
 - 🏆 1st place — College-level AI Talk Show
@@ -74,7 +75,6 @@ fun_fact: 300+ LeetCode problems solved and counting
 <br/>
 
 ## 📊 GitHub Stats
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:06B6D4&height=4"/>
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=AdityaGupta888&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=06B6D4&icon_color=6D28D9&cache_seconds=1800" />
@@ -87,7 +87,6 @@ fun_fact: 300+ LeetCode problems solved and counting
 <br/>
 
 ## 🚀 Projects
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:06B6D4&height=4"/>
 
 <div align="center">
 
