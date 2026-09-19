@@ -64,7 +64,7 @@ fun_fact: 300+ LeetCode problems solved and counting
 <br/>
 
 ## 🏆 Highlights
-<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:06B6D4&height=6"/>
+<img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:06B6D4&height=4"/>
 
 - 🎓 3rd-year CSE student, CGPA 8.9+, balancing startup work with academics
 - 🏆 1st place — College-level AI Talk Show
@@ -150,7 +150,7 @@ A fully built, deployed website delivered as a client/portfolio project.
 <br/>
 
 ## 🤝 Let's Connect
-<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:06B6D4&height=6"/>
+<img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:06B6D4&height=4"/>
 
 <div align="center">
 
