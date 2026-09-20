@@ -32,7 +32,7 @@ fun_fact: 300+ LeetCode problems solved and counting
 - 🤝 Open to collaborating on open-source projects
 - 📫 Reach me at iamadityagupta888@gmail.com
 
-<br/>
+
 
 ## 🎯 Currently
 🔭 Working On   : Full-stack personal projects (React + Node.js + PostgreSQL/MongoDB)
