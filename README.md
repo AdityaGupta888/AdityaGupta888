@@ -27,7 +27,7 @@ Mission: Turning ambitious ideas into real time shipped, working software
 fun_fact: 300+ LeetCode problems solved and counting
 ```
 
-- 🔭 Building Full-stack web applications with React and Node.js
+- 🎓 3rd-year CSE student, CGPA 8.9+, balancing skill and startup work with academics
 - 🌱 Sharpening my problem-solving with DSA in Java, C++ and Python
 - 🤝 Open to collaborating on open-source projects
 - 📫 Reach me at iamadityagupta888@gmail.com
@@ -36,10 +36,10 @@ fun_fact: 300+ LeetCode problems solved and counting
 ## 🎯 Currently
 
 ```text
-🏗️  Working On   : Full-stack personal projects (React + Node.js + PostgreSQL/MongoDB)
+🏗️ Working On   : Full-stack personal projects (React + Node.js + PostgreSQL/MongoDB)
 🌱 Learning      : Advanced React, System Design, DSA in Java & C++
 🤝 Open To       : Internships, freelance gigs, open-source collaboration
-💬 Ask Me About  : Web development, DBMS, competitive coding
+💬 Ask Me About  : Full stack development, DBMS, Competitive coding
 ⚡ Fun Fact      : I'd rather ship a rough MVP than polish a plan forever
 ```
 
@@ -70,7 +70,7 @@ fun_fact: 300+ LeetCode problems solved and counting
 ## <img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:06B6D4&height=4"/>
 
 ## 🏆 Highlights 
-- 🎓 3rd-year CSE student, CGPA 8.9+, balancing skill and startup work with academics
+- 🔭 Building Full-stack web applications with React and Node.js
 - 🏆 Won with 1st place — College-level AI Talk Show(2026)
 - 💡 Interested in scalable systems, AI tooling, and building products end-to-end
 - 📚 Certified: CS50(Harvard), Full Stack Web Development (freeCodeCamp.org) · DBMS (NPTEL, IIT)
