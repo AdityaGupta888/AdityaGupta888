@@ -33,14 +33,15 @@ fun_fact: 300+ LeetCode problems solved and counting
 - 📫 Reach me at iamadityagupta888@gmail.com
 
 
-
 ## 🎯 Currently
-🔭 Working On   : Full-stack personal projects (React + Node.js + PostgreSQL/MongoDB)
-🌱 Learning     : Advanced React, System Design, DSA in Java & C++
-🤝 Open To      : Internships, freelance gigs, open-source collaboration
-💬 Ask Me About : Web development, DBMS, competitive coding
-⚡ Fun Fact     : I debug with console.log and I'm not ashamed 😄
 
+\`\`\`
+🏗️  Working On   : Full-stack personal projects (React + Node.js + PostgreSQL/MongoDB)
+🌱 Learning      : Advanced React, System Design, DSA in Java & C++
+🤝 Open To       : Internships, freelance gigs, open-source collaboration
+💬 Ask Me About  : Web development, DBMS, competitive coding
+⚡ Fun Fact      : I debug with console.log and I'm not ashamed 😄
+\`\`\`
 
 ## 🛠️ Tech Stack
 
