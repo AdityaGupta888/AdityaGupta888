@@ -26,13 +26,14 @@ Current_Project: Building CITYFIED — a service marketplace startup
 Mission: Turning ambitious ideas into real time shipped, working software
 fun_fact: 300+ LeetCode problems solved and counting
 ```
-<br/>
+
 - 🔭 Building Full-stack web applications with React and Node.js
 - 🌱 Sharpening my problem-solving with DSA in Java, C++ and Python
 - 🤝 Open to collaborating on open-source projects
 - 📫 Reach me at iamadityagupta888@gmail.com
 
 <br/>
+
 ## 🎯 Currently
 🔭 Working On   : Full-stack personal projects (React + Node.js + PostgreSQL/MongoDB)
 🌱 Learning     : Advanced React, System Design, DSA in Java & C++
@@ -41,6 +42,7 @@ fun_fact: 300+ LeetCode problems solved and counting
 ⚡ Fun Fact     : I debug with console.log and I'm not ashamed 😄
 
 <br/>
+
 ## 🛠️ Tech Stack
 
 **🎨 Frontend**
