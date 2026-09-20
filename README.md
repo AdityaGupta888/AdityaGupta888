@@ -42,8 +42,6 @@ fun_fact: 300+ LeetCode problems solved and counting
 ⚡ Fun Fact     : I debug with console.log and I'm not ashamed 😄
 
 
-<br/>
-
 ## 🛠️ Tech Stack
 
 **🎨 Frontend**
