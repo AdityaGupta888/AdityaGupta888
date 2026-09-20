@@ -66,8 +66,8 @@ fun_fact: 300+ LeetCode problems solved and counting
 ## <img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:06B6D4&height=4"/>
 
 ## 🏆 Highlights 
-- 🎓 3rd-year CSE student, CGPA 8.9+, balancing startup work with academics
-- 🏆 1st place — College-level AI Talk Show(2026)
+- 🎓 3rd-year CSE student, CGPA 8.9+, balancing skill and startup work with academics
+- 🏆 Won with 1st place — College-level AI Talk Show(2026)
 - 💡 Interested in scalable systems, AI tooling, and building products end-to-end
 - 📚 Certified: CS50(Harvard), Full Stack Web Development (freeCodeCamp.org) · DBMS (NPTEL, IIT)
 - ⚡ Fun fact: I'd rather ship a rough MVP than polish a plan forever
