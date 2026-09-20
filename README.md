@@ -20,7 +20,7 @@ Hi there it's me Here👋
 ```yaml
 Name: Aditya Gupta
 Role: Full-Stack Developer & Startup Builder
-Education: BTech CSE, 3rd Year — Babu Banarasi Das University, Lucknow
+Education: B.Tech CSE, 3rd Year — Babu Banarasi Das University, Lucknow
 Current_Project: Building CITYFIED — a service marketplace startup
 Mission: Turning ambitious ideas into real time shipped, working software
 fun_fact: 300+ LeetCode problems solved and counting
@@ -35,7 +35,7 @@ fun_fact: 300+ LeetCode problems solved and counting
 ## 🎯 Currently
 
 ```text
-🏗️ Working On   : Full-stack personal projects (React + Node.js + PostgreSQL/MongoDB)
+🏗️ Working On    : Full-stack personal projects (React + Node.js + PostgreSQL/MongoDB)
 🌱 Learning      : Advanced React, System Design, DSA in Java & C++
 🤝 Open To       : Internships, freelance gigs, open-source collaboration
 💬 Ask Me About  : Full stack development, DBMS, Competitive coding
